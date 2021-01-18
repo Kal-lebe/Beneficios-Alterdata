@@ -1,0 +1,20 @@
+body {
+  
+  margin: 0px;
+  background-color: #0b2a42;
+}
+
+h1 {
+  text-align: center;
+  border-radius: 10px;
+  color: aliceblue;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: lighter;
+  font-size: 3rem ;
+}
+
+h3 {
+    font-size:  1rem;
+    color: gray;
+}
